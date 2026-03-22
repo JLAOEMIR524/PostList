@@ -6,5 +6,5 @@ Necessary columns: ["Nachname", "Name", "Zimmer", "Department", "Role", "id"]
 ## Used Libraries
 For reading the csv data I used papaparse. 
 
-## Licence 
-The whole project is Open source for any person. AI training is prohibited.
+## License 
+See LICENSE file
